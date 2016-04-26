@@ -54,6 +54,12 @@
     <Compile Include="AddBuildingForm.Designer.cs">
       <DependentUpon>AddBuildingForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="AddProviderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddProviderForm.Designer.cs">
+      <DependentUpon>AddProviderForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="BuildingsListForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,10 +72,19 @@
     <Compile Include="EditBuildingsForm.Designer.cs">
       <DependentUpon>EditBuildingsForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="EditProviderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditProviderForm.Designer.cs">
+      <DependentUpon>EditProviderForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="AddBuildingForm.resx">
       <DependentUpon>AddBuildingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddProviderForm.resx">
+      <DependentUpon>AddProviderForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="BuildingsListForm.resx">
       <DependentUpon>BuildingsListForm.cs</DependentUpon>
@@ -77,10 +92,16 @@
     <EmbeddedResource Include="EditBuildingsForm.resx">
       <DependentUpon>EditBuildingsForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="EditProviderForm.resx">
+      <DependentUpon>EditProviderForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProviderListForm.resx">
+      <DependentUpon>ProviderListForm.cs</DependentUpon>
     </EmbeddedResource>
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -94,6 +115,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ProviderListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProviderListForm.Designer.cs">
+      <DependentUpon>ProviderListForm.cs</DependentUpon>
     </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
