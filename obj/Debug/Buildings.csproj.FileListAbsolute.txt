@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\Buildings\bin\Debug\Buildings.exe
+C:\Users\Student\Desktop\Buildings\bin\Debug\Buildings.pdb
+C:\Users\Student\Desktop\Buildings\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Buildings\obj\Debug\Buildings.BuildingsListForm.resources
+C:\Users\Student\Desktop\Buildings\obj\Debug\Buildings.Properties.Resources.resources
+C:\Users\Student\Desktop\Buildings\obj\Debug\Buildings.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Buildings\obj\Debug\Buildings.exe
+C:\Users\Student\Desktop\Buildings\obj\Debug\Buildings.pdb
+C:\Users\Student\Desktop\Buildings\obj\Debug\Buildings.addBuildingForm.resources
+C:\Users\Student\Desktop\Buildings\obj\Debug\Buildings.EditBuildingsForm.resources
