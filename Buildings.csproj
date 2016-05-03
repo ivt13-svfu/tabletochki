@@ -54,19 +54,17 @@
     <Compile Include="AddBuildingForm.Designer.cs">
       <DependentUpon>AddBuildingForm.cs</DependentUpon>
     </Compile>
-<<<<<<< HEAD
     <Compile Include="Autorization.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Autorization.Designer.cs">
       <DependentUpon>Autorization.cs</DependentUpon>
-=======
+    </Compile>
     <Compile Include="AddProviderForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddProviderForm.Designer.cs">
       <DependentUpon>AddProviderForm.cs</DependentUpon>
->>>>>>> a598d4b9e62631f4fc348dff0a29b7863c359bec
     </Compile>
     <Compile Include="BuildingsListForm.cs">
       <SubType>Form</SubType>
@@ -80,32 +78,28 @@
     <Compile Include="EditBuildingsForm.Designer.cs">
       <DependentUpon>EditBuildingsForm.cs</DependentUpon>
     </Compile>
-<<<<<<< HEAD
     <Compile Include="MainMenu.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="MainMenu.Designer.cs">
       <DependentUpon>MainMenu.cs</DependentUpon>
-=======
+	</Compile>
     <Compile Include="EditProviderForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="EditProviderForm.Designer.cs">
       <DependentUpon>EditProviderForm.cs</DependentUpon>
->>>>>>> a598d4b9e62631f4fc348dff0a29b7863c359bec
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="AddBuildingForm.resx">
       <DependentUpon>AddBuildingForm.cs</DependentUpon>
     </EmbeddedResource>
-<<<<<<< HEAD
     <EmbeddedResource Include="Autorization.resx">
       <DependentUpon>Autorization.cs</DependentUpon>
-=======
+	</EmbeddedResource>
     <EmbeddedResource Include="AddProviderForm.resx">
       <DependentUpon>AddProviderForm.cs</DependentUpon>
->>>>>>> a598d4b9e62631f4fc348dff0a29b7863c359bec
     </EmbeddedResource>
     <EmbeddedResource Include="BuildingsListForm.resx">
       <DependentUpon>BuildingsListForm.cs</DependentUpon>
@@ -113,13 +107,11 @@
     <EmbeddedResource Include="EditBuildingsForm.resx">
       <DependentUpon>EditBuildingsForm.cs</DependentUpon>
     </EmbeddedResource>
-<<<<<<< HEAD
     <EmbeddedResource Include="MainMenu.resx">
       <DependentUpon>MainMenu.cs</DependentUpon>
-=======
+	</EmbeddedResource>
     <EmbeddedResource Include="EditProviderForm.resx">
       <DependentUpon>EditProviderForm.cs</DependentUpon>
->>>>>>> a598d4b9e62631f4fc348dff0a29b7863c359bec
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
