@@ -25,5 +25,10 @@ namespace Buildings
 		{
 			if (formValidate()) MessageBox.Show("Заполнены не все поля или введены некорректные данные.");
 		}
+
+        private void cancelButton_Click(object sender, EventArgs e)
+        {
+
+        }
 	}
 }

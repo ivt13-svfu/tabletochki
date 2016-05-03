@@ -15,7 +15,7 @@ namespace Buildings
 		{
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new BuildingsListForm());
+			Application.Run(new MainMenu());
 		}
 	}
 }

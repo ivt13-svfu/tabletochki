@@ -8,3 +8,15 @@ C:\Users\Student\Desktop\Buildings\obj\Debug\Buildings.exe
 C:\Users\Student\Desktop\Buildings\obj\Debug\Buildings.pdb
 C:\Users\Student\Desktop\Buildings\obj\Debug\Buildings.addBuildingForm.resources
 C:\Users\Student\Desktop\Buildings\obj\Debug\Buildings.EditBuildingsForm.resources
+C:\Users\Student\Documents\tabletochki\obj\Debug\Buildings.exe
+C:\Users\Student\Documents\tabletochki\obj\Debug\Buildings.pdb
+C:\Users\Student\Documents\tabletochki\bin\Debug\Buildings.exe
+C:\Users\Student\Documents\tabletochki\bin\Debug\Buildings.pdb
+C:\Users\Student\Documents\tabletochki\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Documents\tabletochki\obj\Debug\Buildings.AddBuildingForm.resources
+C:\Users\Student\Documents\tabletochki\obj\Debug\Buildings.BuildingsListForm.resources
+C:\Users\Student\Documents\tabletochki\obj\Debug\Buildings.EditBuildingsForm.resources
+C:\Users\Student\Documents\tabletochki\obj\Debug\Buildings.MainMenu.resources
+C:\Users\Student\Documents\tabletochki\obj\Debug\Buildings.Properties.Resources.resources
+C:\Users\Student\Documents\tabletochki\obj\Debug\Buildings.csproj.GenerateResource.Cache
+C:\Users\Student\Documents\tabletochki\obj\Debug\Buildings.Autorization.resources

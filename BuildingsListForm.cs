@@ -33,5 +33,10 @@ namespace Buildings
 		{
 			new EditBuildingsForm().Show();
 		}
+
+        private void ApptButton_Click(object sender, EventArgs e)
+        {
+
+        }
 	}
 }
